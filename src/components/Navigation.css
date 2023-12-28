@@ -1,0 +1,22 @@
+/* Navigation.css */
+
+nav {
+ /* Deep teal color; change as desired */
+    padding: 1rem;
+    text-align: Left;
+    background-color: antiquewhite;
+    color: #d526b8;
+  }
+  
+  nav a {
+    color: #d526b8; /* White text color for contrast */
+    margin: 0 1rem; /* Spacing between links */
+    text-decoration: none;
+    font-size: 1.2rem; /* Slightly larger text size */
+    font-weight: 500; /* Medium font weight */
+  }
+  nav a:hover {
+    color: #d526b8; /* Lighter teal color on hover */
+  }
+
+  
